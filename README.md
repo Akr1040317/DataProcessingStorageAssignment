@@ -1,9 +1,9 @@
-#README for DataProcessingStorageAssignment (Extra Credit)
+# README for DataProcessingStorageAssignment (Extra Credit)
 
-##Author
+## Author
 Akshat Rastogi, Computer Science Major, Junior
 
-##Course
+## Course
 CIS4930: Enterprise Software Engineering 
 
 
